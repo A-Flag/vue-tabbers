@@ -1,6 +1,6 @@
 <template>
     <div>
-        <van-button type="primary">11</van-button>
+        <van-button type="primary">1111</van-button>
         <Tabber :initActive="0"></Tabber>
     </div>
 </template>
